@@ -1,0 +1,11 @@
+Microcontroller based Industrial Applications.
+Title: Industrial Fire Safety System.
+
+Problem Statement: 
+In many industrial environments, fire and smoke incidents can lead to severe property damage, operational downtime, and life-threatening situations if not detected early. Traditional safety systems often lack real-time responsiveness or affordability for small-to-medium setups. This project aims to develop a low-cost, Arduino-based Industrial Fire Safety System using flame and smoke sensors to detect hazards and trigger immediate alerts through a buzzer and LED indicator, ensuring timely awareness and response to potential fire risks.
+
+Scope of Solution: 
+The Industrial Fire Safety System is a compact and low-cost prototype designed to demonstrate the feasibility of real-time hazard detection using microcontrollers and sensors. The project focuses on detecting flame and smoke presence in an environment and providing immediate audible and visual alerts to ensure early warning.
+
+Solution Approach: 
+This was done in 2 methods, via both hardware and software. For software simulation, TinkerCAD was used. For hardware execution, Arduino IDE was used.
