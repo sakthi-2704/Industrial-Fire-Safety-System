@@ -8,7 +8,7 @@ To design and simulate an Industrial Fire Safety System using Arduino, capable o
 
 A working demonstration of the Industrial Fire Safety System is available here:
 
-▶[View Demo Videos on Google Drive](https://drive.google.com/drive/folders/1X17y9yHO8hkKJQuCGsqg_aahPxO9cK0l?usp=drive_link)
+[View Demo Videos on Google Drive](https://drive.google.com/drive/folders/1X17y9yHO8hkKJQuCGsqg_aahPxO9cK0l?usp=drive_link)
 
 The videos show:
 - Sensor inputs (flame and smoke)
